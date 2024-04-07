@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Elisandro/Documents/trabalho_disciplina4/mlruns/152548328001359533/f477f04534fd44cb9612ba77f2b31b7d/artifacts
+end_time: 1711839375755
+entry_point_name: ''
+experiment_id: '152548328001359533'
+lifecycle_stage: active
+run_id: f477f04534fd44cb9612ba77f2b31b7d
+run_name: Treinamento
+run_uuid: f477f04534fd44cb9612ba77f2b31b7d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711839365673
+status: 3
+tags: []
+user_id: Elisandro

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Elisandro/Documents/trabalho_disciplina4/mlruns/152548328001359533/8a6fcd0bded4401784dd2612101e5170/artifacts
+end_time: 1711839345201
+entry_point_name: ''
+experiment_id: '152548328001359533'
+lifecycle_stage: active
+run_id: 8a6fcd0bded4401784dd2612101e5170
+run_name: PreparacaoDados
+run_uuid: 8a6fcd0bded4401784dd2612101e5170
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1711839345153
+status: 3
+tags: []
+user_id: Elisandro
